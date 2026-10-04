@@ -1,0 +1,306 @@
+date,merchant,amount,transaction_type,category,description
+2026-04-01,SALARY,52000,income,Income,Monthly salary
+2026-04-01,ZOMATO,374.53,expense,Food & Dining,Food delivery
+2026-04-02,SWIGGY,223.42,expense,Food & Dining,Food delivery
+2026-04-02,OLA,188.31,expense,Transport,
+2026-04-03,RENT PAYMENT,15000,expense,Housing,Monthly rent
+2026-04-03,UBER,326.55,expense,Transport,
+2026-04-04,APOLLO PHARMACY,352.84,expense,Healthcare,
+2026-04-05,ELECTRICITY BOARD,1255.77,expense,Utilities,
+2026-04-05,INTERNET PROVIDER,999,expense,Utilities,Broadband
+2026-04-05,SWIGGY,369.17,expense,Food & Dining,Food delivery
+2026-04-07,NETFLIX,649,expense,Subscriptions,
+2026-04-07,METRO CARD RECHARGE,152.08,expense,Transport,
+2026-04-08,SWIGGY,340.31,expense,Food & Dining,Food delivery
+2026-04-08,DOMINOS,446.31,expense,Food & Dining,Food delivery
+2026-04-08,UBER,204.81,expense,Transport,
+2026-04-08,METRO CARD RECHARGE,167.56,expense,Transport,
+2026-04-08,FLIPKART,2184.1,expense,Shopping,
+2026-04-09,SPOTIFY,119,expense,Subscriptions,
+2026-04-09,METRO CARD RECHARGE,265.8,expense,Transport,
+2026-04-09,FLIPKART,2253.76,expense,Shopping,
+2026-04-11,CLOUD STORAGE,130,expense,Subscriptions,
+2026-04-11,DOMINOS,238.87,expense,Food & Dining,Food delivery
+2026-04-12,DOMINOS,401.78,expense,Food & Dining,Food delivery
+2026-04-13,SWIGGY,289.74,expense,Food & Dining,Food delivery
+2026-04-13,SWIGGY,338.01,expense,Food & Dining,Food delivery
+2026-04-13,DOMINOS,313.35,expense,Food & Dining,Food delivery
+2026-04-17,PVR CINEMAS,354.55,expense,Entertainment,
+2026-04-18,SWIGGY,347.62,expense,Food & Dining,Food delivery
+2026-04-19,DOMINOS,402.36,expense,Food & Dining,Food delivery
+2026-04-19,METRO CARD RECHARGE,164.96,expense,Transport,
+2026-04-19,MYNTRA,1585.99,expense,Shopping,
+2026-04-21,UBER,224.22,expense,Transport,
+2026-04-21,OLA,186.82,expense,Transport,
+2026-04-21,OLA,118.58,expense,Transport,
+2026-04-22,METRO CARD RECHARGE,99.28,expense,Transport,
+2026-04-23,LOCAL CAFE,255.11,expense,Food & Dining,Food delivery
+2026-04-23,SWIGGY,211.46,expense,Food & Dining,Food delivery
+2026-04-24,DOMINOS,261.22,expense,Food & Dining,Food delivery
+2026-04-24,LOCAL CAFE,334.06,expense,Food & Dining,Food delivery
+2026-04-25,DOMINOS,225.55,expense,Food & Dining,Food delivery
+2026-04-25,UBER,141.84,expense,Transport,
+2026-04-27,DOMINOS,344.34,expense,Food & Dining,Food delivery
+2026-04-27,DOMINOS,240.66,expense,Food & Dining,Food delivery
+2026-04-28,ZOMATO,416.62,expense,Food & Dining,Food delivery
+2026-05-01,SALARY,52000,income,Income,Monthly salary
+2026-05-01,UBER,271.12,expense,Transport,
+2026-05-02,UBER,98.2,expense,Transport,
+2026-05-02,OLA,99.13,expense,Transport,
+2026-05-03,RENT PAYMENT,15000,expense,Housing,Monthly rent
+2026-05-04,DOMINOS,392.15,expense,Food & Dining,Food delivery
+2026-05-04,DOMINOS,410.42,expense,Food & Dining,Food delivery
+2026-05-04,BOOKMYSHOW,691.29,expense,Entertainment,
+2026-05-05,ELECTRICITY BOARD,1063.99,expense,Utilities,
+2026-05-05,INTERNET PROVIDER,999,expense,Utilities,Broadband
+2026-05-06,LOCAL CAFE,200.81,expense,Food & Dining,Food delivery
+2026-05-06,MYNTRA,1887.88,expense,Shopping,
+2026-05-07,NETFLIX,649,expense,Subscriptions,
+2026-05-07,METRO CARD RECHARGE,115.72,expense,Transport,
+2026-05-07,UBER,106.17,expense,Transport,
+2026-05-08,SWIGGY,221.41,expense,Food & Dining,Food delivery
+2026-05-08,SWIGGY,284.52,expense,Food & Dining,Food delivery
+2026-05-08,OLA,260.62,expense,Transport,
+2026-05-09,SPOTIFY,119,expense,Subscriptions,
+2026-05-11,CLOUD STORAGE,130,expense,Subscriptions,
+2026-05-11,SWIGGY,273.38,expense,Food & Dining,Food delivery
+2026-05-12,DOMINOS,259.86,expense,Food & Dining,Food delivery
+2026-05-13,DOMINOS,309.53,expense,Food & Dining,Food delivery
+2026-05-13,METRO CARD RECHARGE,171.61,expense,Transport,
+2026-05-14,OLA,194.37,expense,Transport,
+2026-05-15,METRO CARD RECHARGE,94.63,expense,Transport,
+2026-05-16,SWIGGY,227.97,expense,Food & Dining,Food delivery
+2026-05-16,SWIGGY,444.5,expense,Food & Dining,Food delivery
+2026-05-16,ZOMATO,266.26,expense,Food & Dining,Food delivery
+2026-05-17,ZOMATO,238.21,expense,Food & Dining,Food delivery
+2026-05-17,LOCAL CAFE,230.25,expense,Food & Dining,Food delivery
+2026-05-18,SWIGGY,370.07,expense,Food & Dining,Food delivery
+2026-05-18,ZOMATO,232.1,expense,Food & Dining,Food delivery
+2026-05-18,ZOMATO,378.24,expense,Food & Dining,Food delivery
+2026-05-18,UBER,238.88,expense,Transport,
+2026-05-18,MYNTRA,920.55,expense,Shopping,
+2026-05-18,BOOKMYSHOW,881.4,expense,Entertainment,
+2026-05-19,METRO CARD RECHARGE,207.62,expense,Transport,
+2026-05-20,SWIGGY,296.19,expense,Food & Dining,Food delivery
+2026-05-20,LOCAL CAFE,332.28,expense,Food & Dining,Food delivery
+2026-05-21,METRO CARD RECHARGE,106.57,expense,Transport,
+2026-05-24,DOMINOS,442.97,expense,Food & Dining,Food delivery
+2026-05-25,ZOMATO,326.92,expense,Food & Dining,Food delivery
+2026-05-25,ZOMATO,334.84,expense,Food & Dining,Food delivery
+2026-05-25,SWIGGY,349.74,expense,Food & Dining,Food delivery
+2026-05-25,BOOKMYSHOW,399.79,expense,Entertainment,
+2026-05-26,OLA,298.02,expense,Transport,
+2026-05-28,LOCAL CAFE,441.09,expense,Food & Dining,Food delivery
+2026-05-28,UBER,147.14,expense,Transport,
+2026-05-28,AMAZON,1829.39,expense,Shopping,
+2026-06-01,SALARY,52000,income,Income,Monthly salary
+2026-06-01,UBER,100.32,expense,Transport,
+2026-06-02,ZOMATO,294.74,expense,Food & Dining,Food delivery
+2026-06-02,SWIGGY,346.04,expense,Food & Dining,Food delivery
+2026-06-02,SWIGGY,304.81,expense,Food & Dining,Food delivery
+2026-06-03,RENT PAYMENT,15000,expense,Housing,Monthly rent
+2026-06-03,SWIGGY,368.8,expense,Food & Dining,Food delivery
+2026-06-04,METRO CARD RECHARGE,229.37,expense,Transport,
+2026-06-05,ELECTRICITY BOARD,1085.5,expense,Utilities,
+2026-06-05,INTERNET PROVIDER,999,expense,Utilities,Broadband
+2026-06-05,OLA,111.17,expense,Transport,
+2026-06-06,FITNESS GYM,1500,expense,Subscriptions,
+2026-06-07,NETFLIX,649,expense,Subscriptions,
+2026-06-07,DOMINOS,259.67,expense,Food & Dining,Food delivery
+2026-06-07,DOMINOS,233.11,expense,Food & Dining,Food delivery
+2026-06-07,FLIPKART,1248.59,expense,Shopping,
+2026-06-08,LOCAL CAFE,229.97,expense,Food & Dining,Food delivery
+2026-06-09,SPOTIFY,119,expense,Subscriptions,
+2026-06-09,OLA,243.3,expense,Transport,
+2026-06-09,UBER,104.92,expense,Transport,
+2026-06-09,UBER,280.13,expense,Transport,
+2026-06-10,ZOMATO,442.18,expense,Food & Dining,Food delivery
+2026-06-10,LOCAL CAFE,279.04,expense,Food & Dining,Food delivery
+2026-06-11,CLOUD STORAGE,130,expense,Subscriptions,
+2026-06-11,UBER,252.02,expense,Transport,
+2026-06-12,SWIGGY,419.82,expense,Food & Dining,Food delivery
+2026-06-12,DOMINOS,239.44,expense,Food & Dining,Food delivery
+2026-06-12,AMAZON,3196.77,expense,Shopping,
+2026-06-12,PVR CINEMAS,884.3,expense,Entertainment,
+2026-06-13,DOMINOS,431.63,expense,Food & Dining,Food delivery
+2026-06-13,ZOMATO,367.92,expense,Food & Dining,Food delivery
+2026-06-14,OLA,91.9,expense,Transport,
+2026-06-14,AMAZON,625.49,expense,Shopping,
+2026-06-17,ZOMATO,214.22,expense,Food & Dining,Food delivery
+2026-06-17,SWIGGY,412.84,expense,Food & Dining,Food delivery
+2026-06-18,METRO CARD RECHARGE,195.48,expense,Transport,
+2026-06-19,SWIGGY,386.99,expense,Food & Dining,Food delivery
+2026-06-19,ZOMATO,344.73,expense,Food & Dining,Food delivery
+2026-06-19,DOMINOS,433.68,expense,Food & Dining,Food delivery
+2026-06-20,SWIGGY,218.32,expense,Food & Dining,Food delivery
+2026-06-21,METRO CARD RECHARGE,82.11,expense,Transport,
+2026-06-21,OLA,216.46,expense,Transport,
+2026-06-22,UBER,333.51,expense,Transport,
+2026-06-23,LOCAL CAFE,238.7,expense,Food & Dining,Food delivery
+2026-06-23,OLA,134.97,expense,Transport,
+2026-06-23,UBER,227.31,expense,Transport,
+2026-06-25,SWIGGY,202.33,expense,Food & Dining,Food delivery
+2026-06-26,LOCAL CAFE,271.31,expense,Food & Dining,Food delivery
+2026-06-27,DOMINOS,352.92,expense,Food & Dining,Food delivery
+2026-06-27,METRO CARD RECHARGE,160.83,expense,Transport,
+2026-06-27,OLA,237.28,expense,Transport,
+2026-07-01,SALARY,52000,income,,Monthly salary
+2026-07-01,ZOMATO,384.14,expense,,Food delivery
+2026-07-02,LOCAL CAFE,255.61,expense,,Food delivery
+2026-07-03,RENT PAYMENT,15000,expense,,Monthly rent
+2026-07-03,MYNTRA,2046.36,expense,,
+2026-07-04,DOMINOS,244.64,expense,,Food delivery
+2026-07-05,ELECTRICITY BOARD,1370.31,expense,,
+2026-07-05,INTERNET PROVIDER,999,expense,,Broadband
+2026-07-06,FITNESS GYM,1500,expense,,
+2026-07-07,NETFLIX,649,expense,,
+2026-07-07,OLA,292.15,expense,,
+2026-07-07,FLIPKART,1919.56,expense,,
+2026-07-08,BOOKMYSHOW,388.41,expense,,
+2026-07-09,SPOTIFY,119,expense,,
+2026-07-09,SWIGGY,441.72,expense,,Food delivery
+2026-07-09,DOMINOS,360.37,expense,,Food delivery
+2026-07-09,SWIGGY,227.1,expense,,Food delivery
+2026-07-10,METRO CARD RECHARGE,163.51,expense,,
+2026-07-10,METRO CARD RECHARGE,114.37,expense,,
+2026-07-11,CLOUD STORAGE,130,expense,,
+2026-07-11,LOCAL CAFE,400.56,expense,,Food delivery
+2026-07-11,LOCAL CAFE,351.55,expense,,Food delivery
+2026-07-13,DOMINOS,434.81,expense,,Food delivery
+2026-07-14,DOMINOS,382.14,expense,,Food delivery
+2026-07-14,OLA,188.65,expense,,
+2026-07-14,METRO CARD RECHARGE,333.9,expense,,
+2026-07-15,MYNTRA,1826.48,expense,,
+2026-07-16,APOLLO PHARMACY,811.27,expense,,
+2026-07-17,SWIGGY,296.3,expense,,Food delivery
+2026-07-18,UBER,162.05,expense,,
+2026-07-19,ZOMATO,263.68,expense,,Food delivery
+2026-07-20,METRO CARD RECHARGE,161.26,expense,,
+2026-07-20,PVR CINEMAS,356.03,expense,,
+2026-07-22,ZOMATO,299.62,expense,,Food delivery
+2026-07-22,OLA,248.25,expense,,
+2026-07-22,UBER,274.33,expense,,
+2026-07-22,METRO CARD RECHARGE,323.76,expense,,
+2026-07-23,LOCAL CAFE,200.42,expense,,Food delivery
+2026-07-25,BOOKMYSHOW,703.68,expense,,
+2026-07-26,ZOMATO,420.35,expense,,Food delivery
+2026-07-26,SWIGGY,295.64,expense,,Food delivery
+2026-07-26,ZOMATO,291.06,expense,,Food delivery
+2026-07-26,FLIPKART,1009.07,expense,,
+2026-07-27,LOCAL CAFE,287.41,expense,,Food delivery
+2026-07-27,ZOMATO,255.73,expense,,Food delivery
+2026-07-28,ZOMATO,444.05,expense,,Food delivery
+2026-07-28,ZOMATO,266.7,expense,,Food delivery
+2026-08-01,SALARY,52000,income,,Monthly salary
+2026-08-01,AMAZON,1098.08,expense,,
+2026-08-03,RENT PAYMENT,16000,expense,,Monthly rent
+2026-08-03,METRO CARD RECHARGE,195.73,expense,,
+2026-08-05,ELECTRICITY BOARD,1307.4,expense,,
+2026-08-05,INTERNET PROVIDER,999,expense,,Broadband
+2026-08-05,SWIGGY,423.16,expense,,Food delivery
+2026-08-06,FITNESS GYM,1500,expense,,
+2026-08-07,NETFLIX,649,expense,,
+2026-08-08,ZOMATO,401.03,expense,,Food delivery
+2026-08-08,SWIGGY,314.12,expense,,Food delivery
+2026-08-08,LOCAL CAFE,373.49,expense,,Food delivery
+2026-08-08,OLA,139.24,expense,,
+2026-08-09,SPOTIFY,119,expense,,
+2026-08-09,LOCAL CAFE,356.69,expense,,Food delivery
+2026-08-09,LOCAL CAFE,219.37,expense,,Food delivery
+2026-08-09,OLA,168.39,expense,,
+2026-08-09,AMAZON,1910.92,expense,,
+2026-08-10,ZOMATO,267.93,expense,,Food delivery
+2026-08-11,CLOUD STORAGE,130,expense,,
+2026-08-11,SWIGGY,234.59,expense,,Food delivery
+2026-08-11,METRO CARD RECHARGE,263.37,expense,,
+2026-08-12,OLA,283.44,expense,,
+2026-08-12,AMAZON,2450.43,expense,,
+2026-08-13,LOCAL CAFE,299.91,expense,,Food delivery
+2026-08-13,METRO CARD RECHARGE,124.56,expense,,
+2026-08-13,OLA,283.04,expense,,
+2026-08-14,ZOMATO,379.59,expense,,Food delivery
+2026-08-14,DOMINOS,335.65,expense,,Food delivery
+2026-08-14,SWIGGY,251.71,expense,,Food delivery
+2026-08-14,LOCAL CAFE,426.21,expense,,Food delivery
+2026-08-14,OLA,87.84,expense,,
+2026-08-15,LOCAL CAFE,407.64,expense,,Food delivery
+2026-08-15,UBER,344.79,expense,,
+2026-08-15,OLA,171.13,expense,,
+2026-08-18,DOMINOS,437.51,expense,,Food delivery
+2026-08-18,LOCAL CAFE,424.3,expense,,Food delivery
+2026-08-18,UBER,324.87,expense,,
+2026-08-19,SWIGGY,414.18,expense,,Food delivery
+2026-08-19,OLA,208.78,expense,,
+2026-08-19,METRO CARD RECHARGE,259.01,expense,,
+2026-08-20,BOOKMYSHOW,443.13,expense,,
+2026-08-23,LOCAL CAFE,212.55,expense,,Food delivery
+2026-08-23,ZOMATO,216.06,expense,,Food delivery
+2026-08-24,LOCAL CAFE,312.52,expense,,Food delivery
+2026-08-24,METRO CARD RECHARGE,295.96,expense,,
+2026-08-24,FLIPKART,656.26,expense,,
+2026-08-25,ZOMATO,409.97,expense,,Food delivery
+2026-08-25,FLIPKART,620.77,expense,,
+2026-08-26,LOCAL CAFE,366.89,expense,,Food delivery
+2026-08-28,SWIGGY,394.61,expense,,Food delivery
+2026-08-28,OLA,225.32,expense,,
+2026-08-28,OLA,129.07,expense,,
+2026-09-01,SALARY,52000,income,,Monthly salary
+2026-09-01,DOMINOS,447.13,expense,,Food delivery
+2026-09-01,SWIGGY,355.63,expense,,Food delivery
+2026-09-01,FLIPKART,1353.02,expense,,
+2026-09-02,UBER,229.41,expense,,
+2026-09-03,RENT PAYMENT,16000,expense,,Monthly rent
+2026-09-04,UBER,159.99,expense,,
+2026-09-05,ELECTRICITY BOARD,1045.76,expense,,
+2026-09-05,INTERNET PROVIDER,999,expense,,Broadband
+2026-09-06,FITNESS GYM,1500,expense,,
+2026-09-06,SWIGGY,512.78,expense,,Food delivery
+2026-09-06,DOMINOS,295.13,expense,,Food delivery
+2026-09-07,NETFLIX,649,expense,,
+2026-09-07,SWIGGY,452.43,expense,,Food delivery
+2026-09-07,DOMINOS,519.3,expense,,Food delivery
+2026-09-07,METRO CARD RECHARGE,210.73,expense,,
+2026-09-08,SWIGGY,350.65,expense,,Food delivery
+2026-09-08,UBER,274.75,expense,,
+2026-09-09,SPOTIFY,119,expense,,
+2026-09-09,PVR CINEMAS,368.45,expense,,
+2026-09-11,CLOUD STORAGE,130,expense,,
+2026-09-11,DOMINOS,546.1,expense,,Food delivery
+2026-09-11,UBER,280.58,expense,,
+2026-09-12,LOCAL CAFE,489.88,expense,,Food delivery
+2026-09-12,OLA,229.44,expense,,
+2026-09-12,OLA,349.09,expense,,
+2026-09-12,UBER,161.61,expense,,
+2026-09-13,LOCAL CAFE,565.98,expense,,Food delivery
+2026-09-13,ZOMATO,359.52,expense,,Food delivery
+2026-09-14,DOMINOS,282.41,expense,,Food delivery
+2026-09-14,LOCAL CAFE,294.3,expense,,Food delivery
+2026-09-14,ZOMATO,498.48,expense,,Food delivery
+2026-09-15,DOMINOS,509.24,expense,,Food delivery
+2026-09-15,ZOMATO,503.9,expense,,Food delivery
+2026-09-15,OLA,162.79,expense,,
+2026-09-16,DOMINOS,319.1,expense,,Food delivery
+2026-09-16,MYNTRA,1522.12,expense,,
+2026-09-16,APOLLO PHARMACY,274.08,expense,,
+2026-09-17,ZOMATO,287.82,expense,,Food delivery
+2026-09-17,METRO CARD RECHARGE,156.41,expense,,
+2026-09-18,LOCAL CAFE,411.08,expense,,Food delivery
+2026-09-18,OLA,174.99,expense,,
+2026-09-19,SWIGGY,372.84,expense,,Food delivery
+2026-09-19,LOCAL CAFE,369.33,expense,,Food delivery
+2026-09-20,SWIGGY,518.77,expense,,Food delivery
+2026-09-21,DOMINOS,264.11,expense,,Food delivery
+2026-09-21,DOMINOS,460.17,expense,,Food delivery
+2026-09-21,LOCAL CAFE,405.66,expense,,Food delivery
+2026-09-21,MYNTRA,807.76,expense,,
+2026-09-23,DOMINOS,440.63,expense,,Food delivery
+2026-09-23,METRO CARD RECHARGE,114.18,expense,,
+2026-09-24,LOCAL CAFE,418.79,expense,,Food delivery
+2026-09-24,METRO CARD RECHARGE,343.68,expense,,
+2026-09-25,DOMINOS,536.35,expense,,Food delivery
+2026-09-25,ZOMATO,484.45,expense,,Food delivery
+2026-09-25,METRO CARD RECHARGE,129.99,expense,,
+2026-09-27,ZOMATO,293.12,expense,,Food delivery
+2026-09-27,DOMINOS,364.75,expense,,Food delivery
+2026-09-20,ZEPTO,450,expense,,Grocery delivery
+2026-09-22,MYSTERY MERCHANT CO,999,expense,,

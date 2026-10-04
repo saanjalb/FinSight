@@ -1,0 +1,248 @@
+id,date,merchant,amount,transaction_type,category,description
+1,2026-04-01,Salary,75000,income,Income,Monthly salary credit
+13,2026-04-01,Local Cafe,253.57,expense,Food & Dining,Food delivery/dining
+37,2026-04-02,Rapido,208.37,expense,Transport,Ride/fuel
+46,2026-04-02,BookMyShow,551.54,expense,Entertainment,Miscellaneous expense
+7,2026-04-03,Rent Payment,15000,expense,Housing,Monthly rent
+23,2026-04-03,Decathlon,1526.12,expense,Shopping,Online purchase
+26,2026-04-03,Amazon,2814.42,expense,Shopping,Online purchase
+38,2026-04-03,Ola,372.2,expense,Transport,Ride/fuel
+8,2026-04-04,Swiggy,454.37,expense,Food & Dining,Food delivery/dining
+10,2026-04-04,Local Cafe,212.17,expense,Food & Dining,Food delivery/dining
+20,2026-04-04,Domino's,493.57,expense,Food & Dining,Food delivery/dining
+2,2026-04-05,Netflix,649,expense,Subscriptions,Monthly Netflix charge
+3,2026-04-05,Spotify,119,expense,Subscriptions,Monthly Spotify charge
+4,2026-04-05,Airtel Broadband,999,expense,Utilities,Monthly Airtel Broadband charge
+5,2026-04-05,Cult Fit Gym,1500,expense,Healthcare,Monthly Cult Fit Gym charge
+6,2026-04-05,Google One Storage,130,expense,Subscriptions,Monthly Google One Storage charge
+18,2026-04-05,Zomato,534.17,expense,Food & Dining,Food delivery/dining
+42,2026-04-05,Ola,318.4,expense,Transport,Ride/fuel
+45,2026-04-05,Electricity Board,409.09,expense,Utilities,Miscellaneous expense
+17,2026-04-06,Starbucks,305.89,expense,Food & Dining,Food delivery/dining
+33,2026-04-06,Ola,132.29,expense,Transport,Ride/fuel
+12,2026-04-07,Zomato,366.98,expense,Food & Dining,Food delivery/dining
+31,2026-04-07,Rapido,304.58,expense,Transport,Ride/fuel
+9,2026-04-08,Zomato,231.63,expense,Food & Dining,Food delivery/dining
+19,2026-04-11,Swiggy,214.32,expense,Food & Dining,Food delivery/dining
+25,2026-04-12,Decathlon,1173.01,expense,Shopping,Online purchase
+30,2026-04-12,Ola,198.46,expense,Transport,Ride/fuel
+29,2026-04-13,Flipkart,2086.94,expense,Shopping,Online purchase
+34,2026-04-13,Rapido,396.65,expense,Transport,Ride/fuel
+11,2026-04-14,Swiggy,191.02,expense,Food & Dining,Food delivery/dining
+15,2026-04-15,Local Cafe,282.93,expense,Food & Dining,Food delivery/dining
+40,2026-04-16,IndianOil Petrol,363.1,expense,Transport,Ride/fuel
+43,2026-04-18,Rapido,319.04,expense,Transport,Ride/fuel
+39,2026-04-19,Rapido,148.04,expense,Transport,Ride/fuel
+21,2026-04-20,Domino's,478.64,expense,Food & Dining,Food delivery/dining
+14,2026-04-21,Local Cafe,335.22,expense,Food & Dining,Food delivery/dining
+24,2026-04-21,Decathlon,3599.08,expense,Shopping,Online purchase
+35,2026-04-21,Ola,299.08,expense,Transport,Ride/fuel
+41,2026-04-21,IndianOil Petrol,125.72,expense,Transport,Ride/fuel
+32,2026-04-22,Uber,274.92,expense,Transport,Ride/fuel
+22,2026-04-24,Starbucks,378.4,expense,Food & Dining,Food delivery/dining
+27,2026-04-25,Flipkart,3948.28,expense,Shopping,Online purchase
+36,2026-04-27,Uber,153.3,expense,Transport,Ride/fuel
+16,2026-04-28,Swiggy,460.76,expense,Food & Dining,Food delivery/dining
+28,2026-04-28,Myntra,3532.69,expense,Shopping,Online purchase
+44,2026-04-29,Electricity Board,1032.59,expense,Utilities,Miscellaneous expense
+47,2026-05-01,Salary,75000,income,Income,Monthly salary credit
+80,2026-05-01,BookMyShow,1828.03,expense,Entertainment,Miscellaneous expense
+81,2026-05-02,Apollo Pharmacy,355.02,expense,Healthcare,Miscellaneous expense
+82,2026-05-02,Coursera,362.97,expense,Education,Miscellaneous expense
+53,2026-05-03,Rent Payment,15000,expense,Housing,Monthly rent
+58,2026-05-04,Local Cafe,457.82,expense,Food & Dining,Food delivery/dining
+63,2026-05-04,Domino's,491.42,expense,Food & Dining,Food delivery/dining
+68,2026-05-04,Flipkart,3575.53,expense,Shopping,Online purchase
+48,2026-05-05,Netflix,649,expense,Subscriptions,Monthly Netflix charge
+49,2026-05-05,Spotify,119,expense,Subscriptions,Monthly Spotify charge
+50,2026-05-05,Airtel Broadband,999,expense,Utilities,Monthly Airtel Broadband charge
+51,2026-05-05,Cult Fit Gym,1500,expense,Healthcare,Monthly Cult Fit Gym charge
+52,2026-05-05,Google One Storage,130,expense,Subscriptions,Monthly Google One Storage charge
+70,2026-05-08,Decathlon,3814.32,expense,Shopping,Online purchase
+78,2026-05-08,Uber,188.19,expense,Transport,Ride/fuel
+55,2026-05-13,Starbucks,400.48,expense,Food & Dining,Food delivery/dining
+76,2026-05-13,Rapido,220.19,expense,Transport,Ride/fuel
+60,2026-05-14,Zomato,347.88,expense,Food & Dining,Food delivery/dining
+56,2026-05-15,Local Cafe,273.02,expense,Food & Dining,Food delivery/dining
+73,2026-05-16,Ola,164.82,expense,Transport,Ride/fuel
+64,2026-05-17,Local Cafe,253.6,expense,Food & Dining,Food delivery/dining
+77,2026-05-17,IndianOil Petrol,118.72,expense,Transport,Ride/fuel
+57,2026-05-18,Swiggy,431.7,expense,Food & Dining,Food delivery/dining
+79,2026-05-18,Apollo Pharmacy,1553.41,expense,Healthcare,Miscellaneous expense
+67,2026-05-20,Flipkart,2210.12,expense,Shopping,Online purchase
+71,2026-05-24,IndianOil Petrol,341.13,expense,Transport,Ride/fuel
+59,2026-05-25,Domino's,221.27,expense,Food & Dining,Food delivery/dining
+62,2026-05-25,Zomato,367.84,expense,Food & Dining,Food delivery/dining
+65,2026-05-25,Myntra,2387.83,expense,Shopping,Online purchase
+66,2026-05-25,Decathlon,3714.73,expense,Shopping,Online purchase
+72,2026-05-25,Ola,121.09,expense,Transport,Ride/fuel
+54,2026-05-26,Starbucks,400.67,expense,Food & Dining,Food delivery/dining
+69,2026-05-27,Flipkart,1338.08,expense,Shopping,Online purchase
+74,2026-05-28,IndianOil Petrol,388.6,expense,Transport,Ride/fuel
+75,2026-05-30,Ola,308.14,expense,Transport,Ride/fuel
+61,2026-05-31,Domino's,539.6,expense,Food & Dining,Food delivery/dining
+83,2026-06-01,Salary,75000,income,Income,Monthly salary credit
+106,2026-06-01,IndianOil Petrol,164.86,expense,Transport,Ride/fuel
+111,2026-06-02,Uber,266.94,expense,Transport,Ride/fuel
+89,2026-06-03,Rent Payment,15000,expense,Housing,Monthly rent
+103,2026-06-03,Myntra,1082.09,expense,Shopping,Online purchase
+114,2026-06-03,Uber,296.07,expense,Transport,Ride/fuel
+98,2026-06-04,Zomato,250.89,expense,Food & Dining,Food delivery/dining
+84,2026-06-05,Netflix,649,expense,Subscriptions,Monthly Netflix charge
+85,2026-06-05,Spotify,119,expense,Subscriptions,Monthly Spotify charge
+86,2026-06-05,Airtel Broadband,999,expense,Utilities,Monthly Airtel Broadband charge
+87,2026-06-05,Cult Fit Gym,1500,expense,Healthcare,Monthly Cult Fit Gym charge
+88,2026-06-05,Google One Storage,130,expense,Subscriptions,Monthly Google One Storage charge
+91,2026-06-05,Local Cafe,393.2,expense,Food & Dining,Food delivery/dining
+100,2026-06-06,Domino's,351.17,expense,Food & Dining,Food delivery/dining
+93,2026-06-07,Swiggy,215.86,expense,Food & Dining,Food delivery/dining
+118,2026-06-07,Coursera,748.98,expense,Education,Miscellaneous expense
+92,2026-06-08,Starbucks,478.77,expense,Food & Dining,Food delivery/dining
+115,2026-06-08,IndianOil Petrol,118.36,expense,Transport,Ride/fuel
+116,2026-06-08,BookMyShow,1624.58,expense,Entertainment,Miscellaneous expense
+90,2026-06-09,Starbucks,259.27,expense,Food & Dining,Food delivery/dining
+109,2026-06-10,Ola,389.99,expense,Transport,Ride/fuel
+119,2026-06-13,Apollo Pharmacy,1744.89,expense,Healthcare,Miscellaneous expense
+94,2026-06-14,Domino's,336.72,expense,Food & Dining,Food delivery/dining
+117,2026-06-14,Coursera,2349.82,expense,Education,Miscellaneous expense
+95,2026-06-15,Swiggy,429.14,expense,Food & Dining,Food delivery/dining
+101,2026-06-15,Decathlon,842.68,expense,Shopping,Online purchase
+104,2026-06-16,H&M,1248.12,expense,Shopping,Online purchase
+112,2026-06-17,Ola,98.2,expense,Transport,Ride/fuel
+113,2026-06-17,Uber,352.43,expense,Transport,Ride/fuel
+99,2026-06-18,Starbucks,231.87,expense,Food & Dining,Food delivery/dining
+110,2026-06-19,Uber,319.35,expense,Transport,Ride/fuel
+96,2026-06-21,Swiggy,202.43,expense,Food & Dining,Food delivery/dining
+102,2026-06-21,Decathlon,3426.1,expense,Shopping,Online purchase
+108,2026-06-23,IndianOil Petrol,129.53,expense,Transport,Ride/fuel
+97,2026-06-24,Domino's,476.22,expense,Food & Dining,Food delivery/dining
+107,2026-06-26,IndianOil Petrol,171.28,expense,Transport,Ride/fuel
+105,2026-06-29,Uber,132.68,expense,Transport,Ride/fuel
+120,2026-07-01,Salary,75000,income,Income,Monthly salary credit
+126,2026-07-03,Rent Payment,15000,expense,Housing,Monthly rent
+130,2026-07-03,Local Cafe,258.87,expense,Food & Dining,Food delivery/dining
+148,2026-07-04,Uber,382.42,expense,Transport,Ride/fuel
+121,2026-07-05,Netflix,649,expense,Subscriptions,Monthly Netflix charge
+122,2026-07-05,Spotify,119,expense,Subscriptions,Monthly Spotify charge
+123,2026-07-05,Airtel Broadband,999,expense,Utilities,Monthly Airtel Broadband charge
+124,2026-07-05,Cult Fit Gym,1500,expense,Healthcare,Monthly Cult Fit Gym charge
+125,2026-07-05,Google One Storage,130,expense,Subscriptions,Monthly Google One Storage charge
+138,2026-07-05,Domino's,222.71,expense,Food & Dining,Food delivery/dining
+151,2026-07-05,IndianOil Petrol,120.78,expense,Transport,Ride/fuel
+154,2026-07-08,BookMyShow,1013.46,expense,Entertainment,Miscellaneous expense
+131,2026-07-09,Zomato,525.31,expense,Food & Dining,Food delivery/dining
+146,2026-07-09,Ola,317.19,expense,Transport,Ride/fuel
+140,2026-07-10,Decathlon,1237.2,expense,Shopping,Online purchase
+152,2026-07-10,Rapido,367.67,expense,Transport,Ride/fuel
+141,2026-07-11,Myntra,2906.24,expense,Shopping,Online purchase
+145,2026-07-11,Ola,283.88,expense,Transport,Ride/fuel
+133,2026-07-12,Domino's,238.37,expense,Food & Dining,Food delivery/dining
+144,2026-07-14,Rapido,94.11,expense,Transport,Ride/fuel
+127,2026-07-15,Domino's,523.74,expense,Food & Dining,Food delivery/dining
+147,2026-07-18,IndianOil Petrol,259.49,expense,Transport,Ride/fuel
+129,2026-07-20,Local Cafe,548.56,expense,Food & Dining,Food delivery/dining
+135,2026-07-20,Local Cafe,182.89,expense,Food & Dining,Food delivery/dining
+137,2026-07-22,Swiggy,527.4,expense,Food & Dining,Food delivery/dining
+149,2026-07-23,Ola,254.59,expense,Transport,Ride/fuel
+139,2026-07-24,Decathlon,1044.07,expense,Shopping,Online purchase
+134,2026-07-27,Local Cafe,440.31,expense,Food & Dining,Food delivery/dining
+136,2026-07-27,Local Cafe,290.77,expense,Food & Dining,Food delivery/dining
+150,2026-07-27,Rapido,266.4,expense,Transport,Ride/fuel
+142,2026-07-28,Flipkart,2268.93,expense,Shopping,Online purchase
+132,2026-07-29,Swiggy,505.33,expense,Food & Dining,Food delivery/dining
+143,2026-07-29,Uber,109.54,expense,Transport,Ride/fuel
+153,2026-07-29,Coursera,683.18,expense,Education,Miscellaneous expense
+128,2026-07-30,Swiggy,183.45,expense,Food & Dining,Food delivery/dining
+155,2026-08-01,Salary,75000,income,Income,Monthly salary credit
+166,2026-08-01,Zomato,452.53,expense,Food & Dining,Food delivery/dining
+177,2026-08-01,Amazon,3569.63,expense,Shopping,Online purchase
+194,2026-08-01,Rapido,171.81,expense,Transport,Ride/fuel
+170,2026-08-02,Starbucks,262.3,expense,Food & Dining,Food delivery/dining
+161,2026-08-03,Rent Payment,15000,expense,Housing,Monthly rent
+186,2026-08-03,Rapido,279.41,expense,Transport,Ride/fuel
+156,2026-08-05,Netflix,649,expense,Subscriptions,Monthly Netflix charge
+157,2026-08-05,Spotify,119,expense,Subscriptions,Monthly Spotify charge
+158,2026-08-05,Airtel Broadband,999,expense,Utilities,Monthly Airtel Broadband charge
+159,2026-08-05,Cult Fit Gym,1500,expense,Healthcare,Monthly Cult Fit Gym charge
+160,2026-08-05,Google One Storage,130,expense,Subscriptions,Monthly Google One Storage charge
+183,2026-08-07,Rapido,94.2,expense,Transport,Ride/fuel
+164,2026-08-08,Zomato,541.2,expense,Food & Dining,Food delivery/dining
+174,2026-08-09,Swiggy,537.75,expense,Food & Dining,Food delivery/dining
+175,2026-08-09,Domino's,417.35,expense,Food & Dining,Food delivery/dining
+178,2026-08-09,Myntra,2532.06,expense,Shopping,Online purchase
+179,2026-08-09,Amazon,879.41,expense,Shopping,Online purchase
+188,2026-08-10,Rapido,293.41,expense,Transport,Ride/fuel
+193,2026-08-10,IndianOil Petrol,255.34,expense,Transport,Ride/fuel
+167,2026-08-11,Starbucks,476.83,expense,Food & Dining,Food delivery/dining
+181,2026-08-11,H&M,2621.73,expense,Shopping,Online purchase
+189,2026-08-11,IndianOil Petrol,303.11,expense,Transport,Ride/fuel
+180,2026-08-14,Flipkart,3049.91,expense,Shopping,Online purchase
+184,2026-08-14,Uber,246.37,expense,Transport,Ride/fuel
+196,2026-08-15,Apollo Pharmacy,1375.7,expense,Healthcare,Miscellaneous expense
+182,2026-08-17,Amazon,1848.18,expense,Shopping,Online purchase
+190,2026-08-18,Ola,141.39,expense,Transport,Ride/fuel
+173,2026-08-22,Zomato,327.43,expense,Food & Dining,Food delivery/dining
+176,2026-08-22,Decathlon,1659.02,expense,Shopping,Online purchase
+187,2026-08-22,Uber,310.32,expense,Transport,Ride/fuel
+191,2026-08-22,IndianOil Petrol,296.74,expense,Transport,Ride/fuel
+163,2026-08-24,Zomato,522.53,expense,Food & Dining,Food delivery/dining
+165,2026-08-26,Zomato,506.12,expense,Food & Dining,Food delivery/dining
+169,2026-08-26,Swiggy,321.54,expense,Food & Dining,Food delivery/dining
+185,2026-08-26,Ola,196.55,expense,Transport,Ride/fuel
+195,2026-08-26,Coursera,1269.47,expense,Education,Miscellaneous expense
+197,2026-08-26,Apollo Pharmacy,1715.36,expense,Healthcare,Miscellaneous expense
+171,2026-08-27,Starbucks,309.37,expense,Food & Dining,Food delivery/dining
+172,2026-08-27,Zomato,262.48,expense,Food & Dining,Food delivery/dining
+168,2026-08-28,Zomato,278.72,expense,Food & Dining,Food delivery/dining
+162,2026-08-29,Starbucks,540.32,expense,Food & Dining,Food delivery/dining
+192,2026-08-29,Ola,276.96,expense,Transport,Ride/fuel
+198,2026-09-01,Salary,75000,income,Income,Monthly salary credit
+214,2026-09-01,Swiggy,468.02,expense,Food & Dining,Food delivery/dining
+209,2026-09-02,Zomato,544.06,expense,Food & Dining,Food delivery/dining
+204,2026-09-03,Rent Payment,15000,expense,Housing,Monthly rent
+230,2026-09-03,Zomato,235.81,expense,Food & Dining,Food delivery/dining
+218,2026-09-04,Starbucks,229.34,expense,Food & Dining,Food delivery/dining
+199,2026-09-05,Netflix,649,expense,Subscriptions,Monthly Netflix charge
+200,2026-09-05,Spotify,119,expense,Subscriptions,Monthly Spotify charge
+201,2026-09-05,Airtel Broadband,999,expense,Utilities,Monthly Airtel Broadband charge
+202,2026-09-05,Cult Fit Gym,1500,expense,Healthcare,Monthly Cult Fit Gym charge
+203,2026-09-05,Google One Storage,130,expense,Subscriptions,Monthly Google One Storage charge
+224,2026-09-06,Starbucks,346.53,expense,Food & Dining,Food delivery/dining
+247,2026-09-06,BookMyShow,798.36,expense,Entertainment,Miscellaneous expense
+208,2026-09-08,Zomato,234.52,expense,Food & Dining,Food delivery/dining
+213,2026-09-08,Zomato,422.74,expense,Food & Dining,Food delivery/dining
+215,2026-09-08,Zomato,477.52,expense,Food & Dining,Food delivery/dining
+227,2026-09-08,Domino's,342.75,expense,Food & Dining,Food delivery/dining
+226,2026-09-09,Local Cafe,359.3,expense,Food & Dining,Food delivery/dining
+240,2026-09-09,IndianOil Petrol,235.41,expense,Transport,Ride/fuel
+205,2026-09-10,Local Cafe,425.63,expense,Food & Dining,Food delivery/dining
+229,2026-09-11,Domino's,510.42,expense,Food & Dining,Food delivery/dining
+237,2026-09-12,Rapido,321.11,expense,Transport,Ride/fuel
+231,2026-09-13,Zomato,441.38,expense,Food & Dining,Food delivery/dining
+241,2026-09-13,Rapido,294.04,expense,Transport,Ride/fuel
+232,2026-09-14,H&M,1658.08,expense,Shopping,Online purchase
+246,2026-09-14,Apollo Pharmacy,2193.76,expense,Healthcare,Miscellaneous expense
+219,2026-09-15,Local Cafe,545.52,expense,Food & Dining,Food delivery/dining
+233,2026-09-15,H&M,717.93,expense,Shopping,Online purchase
+217,2026-09-18,Zomato,519.46,expense,Food & Dining,Food delivery/dining
+244,2026-09-18,BookMyShow,2285.94,expense,Entertainment,Miscellaneous expense
+245,2026-09-19,BookMyShow,393.08,expense,Entertainment,Miscellaneous expense
+206,2026-09-20,Domino's,214.55,expense,Food & Dining,Food delivery/dining
+210,2026-09-20,Swiggy,348.5,expense,Food & Dining,Food delivery/dining
+220,2026-09-20,Domino's,531.51,expense,Food & Dining,Food delivery/dining
+212,2026-09-23,Starbucks,362.92,expense,Food & Dining,Food delivery/dining
+216,2026-09-23,Local Cafe,351.88,expense,Food & Dining,Food delivery/dining
+228,2026-09-23,Domino's,266.76,expense,Food & Dining,Food delivery/dining
+222,2026-09-24,Local Cafe,337.89,expense,Food & Dining,Food delivery/dining
+239,2026-09-24,Ola,236.23,expense,Transport,Ride/fuel
+207,2026-09-25,Zomato,428.93,expense,Food & Dining,Food delivery/dining
+225,2026-09-25,Zomato,490.75,expense,Food & Dining,Food delivery/dining
+235,2026-09-25,Decathlon,3811.22,expense,Shopping,Online purchase
+242,2026-09-26,IndianOil Petrol,311.74,expense,Transport,Ride/fuel
+234,2026-09-27,H&M,1863.17,expense,Shopping,Online purchase
+243,2026-09-27,IndianOil Petrol,374.25,expense,Transport,Ride/fuel
+236,2026-09-28,IndianOil Petrol,232.63,expense,Transport,Ride/fuel
+238,2026-09-28,IndianOil Petrol,252.23,expense,Transport,Ride/fuel
+211,2026-09-29,Local Cafe,251.94,expense,Food & Dining,Food delivery/dining
+221,2026-09-29,Starbucks,406.68,expense,Food & Dining,Food delivery/dining
+223,2026-09-30,Local Cafe,344.99,expense,Food & Dining,Food delivery/dining
